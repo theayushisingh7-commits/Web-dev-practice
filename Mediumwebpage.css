@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container{
+    background-color: #F7F4ED;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    align-items: center;
+    position: sticky;
+}
+h1{
+    margin-left: 75px;
+    padding: 25px 25px;
+}
+
+.Boxtwo a{
+    font-size: 1.1em;
+    margin-right: 40px;
+    text-decoration: none;
+    color: black;
+}  
+#link{
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 40px;
+}
+.body{
+    height:750px;
+    background-color: #F7F4ED;
+    display: flex;
+    flex-direction: row;
+}
+.Letter{
+    margin-top: 190px;
+    margin-left: 200px;
+    height: 200px;
+    width: 856px;
+}
+.image{
+    height: 750px;
+    width: 450px;
+    padding-left: 450px;
+}
+.body h2{
+    font-size: 8em;
+}
+p{
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: 400;
+    color: black;
+    margin-bottom: 40px;
+}
+#Reading{
+    padding-top: 15px;
+    border: 2px solid black;
+    display: block;
+    width:120px;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-top: 2px solid black;
+    align-items: center;
+}
+.elements{
+    
+    padding-top: 40px;
+}
+.elements a{
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
