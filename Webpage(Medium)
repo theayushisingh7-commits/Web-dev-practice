@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medium</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+/*Nav bar of webpage*/
+    <div class="Container">
+        <div class="Boxone"><h1>Medium</h1></div>
+        <div class="Boxtwo">
+            <a href="#">Our Story</a>
+            <a href="#">Membership</a>
+            <a href="#">Write</a>
+            <a href="#">Sign in</a>
+            <a id="link" href="#">Get Started</a>
+        </div>
+    </div>
+/*Body of webpage*/
+    <div class="body">
+        <div class="Letter"><h2>Human
+            <br>
+            sorties & ideas
+        </h2>
+        <p>A place to read, write, and deepen your understanding</p>
+        <a id="Reading" href="#">Start Reading</a>
+        </div>  
+        <div>
+        <img class="image" src="https://miro.medium.com/v2/format:webp/4*SdjkdS98aKH76I8eD0_qjw.png" alt="This is a image">
+        </div>
+    </div>
+/*Footer of webpage*/
+    <div class="footer">
+       <div  class="elements">
+        <a href="#">Help</a>
+        <a href="#">Status</a>
+        <a href="#">About</a>
+        <a href="#">Careers</a>
+        <a href="#">Press</a>
+        <a href="#">Blog</a>
+        <a href="#">Privacy</a>
+        <a href="#">Rule</a>
+        <a href="#">Terms</a>
+        <a href="#">Text to Speech</a>
+     </div>
+    </div>
+</body>
+</html>
